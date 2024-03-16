@@ -6,7 +6,7 @@
 	<packaging>jar</packaging>
 	<name>Dian WS</name>
 	<description>UBL Schema Specification on Jaxb for WS</description>
-	<url>https://CodericBusiness.github.io/org.coderic.model.ubl</url>
+	<url>https://CodericBusiness.github.io/org.coderic.ws.dian</url>
 	<organization>
 		<name>Coderic</name>
 		<url>https://coderic.org/</url>
@@ -19,13 +19,13 @@
 		</license>
 	</licenses>
 	<scm>
-		<connection>scm:git:git://github.com/CodericBusiness/org.coderic.model.ubl.git</connection>
-		<developerConnection>scm:git:ssh://github.com:CodericBusiness/org.coderic.model.ubl.git</developerConnection>
-		<url>http://github.com/CodericBusiness/org.coderic.model.ubl/tree/master</url>
+		<connection>scm:git:git://github.com/CodericBusiness/org.coderic.ws.dian.git</connection>
+		<developerConnection>scm:git:ssh://github.com:CodericBusiness/org.coderic.ws.dian.git</developerConnection>
+		<url>http://github.com/CodericBusiness/org.coderic.ws.dian/tree/master</url>
 	</scm>
 	<issueManagement>
 		<system>GitHub</system>
-		<url>https://github.com/CodericBusiness/org.coderic.model.ubl/issues</url>
+		<url>https://github.com/CodericBusiness/org.coderic.ws.dian/issues</url>
 	</issueManagement>
 	<developers>
 		<developer>
