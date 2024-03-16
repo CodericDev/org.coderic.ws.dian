@@ -5,7 +5,7 @@
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
 	<name>Dian WS</name>
-	<description>UBL Schema Specification on Jaxb for WS</description>
+	<description>Dian Webservice Endpoint on Jaxb for WS</description>
 	<url>https://CodericBusiness.github.io/org.coderic.ws.dian</url>
 	<organization>
 		<name>Coderic</name>
