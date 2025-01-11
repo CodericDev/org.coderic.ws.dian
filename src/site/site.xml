@@ -28,18 +28,18 @@
             <topBarIcon>
                 <name>Coderic</name>
                 <alt>Coderic</alt>
-                <src>https://coderic.cloud/favicon.svg</src>
+                <src>https://github.com/coderic.png</src>
                 <href>/index.html</href>
             </topBarIcon>
         </fluidoSkin>
     </custom>
-    <edit>https://github.com/CodericBusiness/org.coderic.ws.dian/edit/master/</edit>
+    <edit>https://github.com/CodericDev/org.coderic.ws.dian/edit/master/</edit>
     <body>
         <breadcrumbs>
             <item name="${project.artifactId}" href="/index.html"/>
         </breadcrumbs>
         <links>
-            <item name="Repository" href="https://github.com/CodericBusiness/org.coderic.ws.dian"/>
+            <item name="Repository" href="https://github.com/CodericDev/org.coderic.ws.dian"/>
             <item name="Dian" href="https://www.dian.gov.co/"/>
         </links>
         <menu name="Related links">
