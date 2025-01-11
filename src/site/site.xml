@@ -3,9 +3,18 @@
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          name="${project.name}" xmlns="http://maven.apache.org/DECORATION/1.8.0"
          xsi:schemaLocation="http://maven.apache.org/DECORATION/1.8.0 http://maven.apache.org/xsd/decoration-1.8.0.xsd">
+    <bannerLeft>
+        <name>${project.name}</name>
+        <!--src>https://maven.apache.org/images/apache-maven-project.png</src-->
+        <href>${project.url}</href>
+    </bannerLeft>
+    <!--bannerRight>
+        <src>https://github.org/coderic.png</src>
+        <href>https://coderic.org/</href>
+    </bannerRight-->
     <poweredBy>
         <logo name="Coderic" href="https://coderic.org/"
-              img="https://business.coderic.org/org.coderic.ws.dian/images/logo.png" position="center"
+              img="https://github.com/coderic.png" position="center"
               width="80%" title="Coderic"/>
     </poweredBy>
     <skin>
@@ -27,12 +36,12 @@
         </breadcrumbs>
         <links>
             <item name="Repository" href="https://github.com/CodericBusiness/org.coderic.ws.dian"/>
-            <item name="Dian" href="https://www.dian.gov.co"/>
+            <item name="Dian" href="https://www.dian.gov.co/"/>
         </links>
         <menu name="Related links">
             <item name="Semantic Versioning" href="https://semver.org"/>
-            <item name="Maven" href="https://maven.apache.org"/>
-            <item name="Java" href="https://www.javainuse.com"/>
+            <item name="Maven" href="https://maven.apache.org/"/>
+            <item name="Java" href="https://www.javainuse.com/"/>
         </menu>
         <menu ref="reports"/>
     </body>
