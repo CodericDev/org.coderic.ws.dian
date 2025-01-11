@@ -3,15 +3,6 @@
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          name="${project.name}" xmlns="http://maven.apache.org/DECORATION/1.8.0"
          xsi:schemaLocation="http://maven.apache.org/DECORATION/1.8.0 http://maven.apache.org/xsd/decoration-1.8.0.xsd">
-    <bannerLeft>
-        <name>${project.name}</name>
-        <!--src>https://maven.apache.org/images/apache-maven-project.png</src-->
-        <href>${project.url}</href>
-    </bannerLeft>
-    <bannerRight>
-        <src>https://coderic.org/assets/img/logo.png</src>
-        <href>https://coderic.org/</href>
-    </bannerRight>
     <poweredBy>
         <logo name="Coderic" href="https://coderic.org/"
               img="https://business.coderic.org/org.coderic.ws.dian/images/logo.png" position="center"
