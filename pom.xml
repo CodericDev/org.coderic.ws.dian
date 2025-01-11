@@ -19,8 +19,8 @@
 		</license>
 	</licenses>
 	<scm>
-		<connection>scm:git:git://github.com/CodericBusiness/org.coderic.ws.dian.git</connection>
-		<developerConnection>scm:git:ssh://github.com:CodericBusiness/org.coderic.ws.dian.git</developerConnection>
+		<connection>scm:git:https://github.com/CodericBusiness/org.coderic.ws.dian.git</connection>
+		<developerConnection>scm:git:git@github.com:CodericBusiness/org.coderic.ws.dian.git</developerConnection>
 		<url>http://github.com/CodericBusiness/org.coderic.ws.dian/tree/master</url>
 	</scm>
 	<issueManagement>
