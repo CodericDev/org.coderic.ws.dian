@@ -29,6 +29,7 @@ body {
 }
 
 #bannerRight img{
-    height: 50px;
-    margin-bottom: 5px;
+    height: 47px;
+    margin-bottom: 0;
+    vertical-align: text-top;
 }
