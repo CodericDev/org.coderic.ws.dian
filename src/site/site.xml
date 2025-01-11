@@ -12,7 +12,7 @@
         <href>https://coderic.org</href>
     </bannerRight>
     <poweredBy>
-        <logo name="Dirección de Impuestos y Aduanas Nacionales" href="https://coderic.org"
+        <logo name="Dirección de Impuestos y Aduanas Nacionales" href="https://www.dian.gov.co"
               img="https://micrositios.dian.gov.co/sistema-de-diseno/wp-content/uploads/sites/10/2023/06/Dian-principal.png" position="center"
               width="80%" title="Dirección de Impuestos y Aduanas Nacionales"/>
     </poweredBy>
@@ -26,12 +26,11 @@
             <profile>pre-release</profile>
             <sourceLineNumbersEnabled>true</sourceLineNumbersEnabled>
             <topBarIcon>
-                <name>Maven Fluido Skin</name>
-                <alt>Maven Fluido Skin</alt>
+                <name>Coderic</name>
+                <alt>Coderic</alt>
                 <src>https://coderic.cloud/favicon.svg</src>
                 <href>/index.html</href>
             </topBarIcon>
-            <topBarContainerStyle>width: 90%;</topBarContainerStyle>
         </fluidoSkin>
     </custom>
     <edit>https://github.com/CodericBusiness/org.coderic.ws.dian/edit/master/</edit>
