@@ -26,14 +26,13 @@
             <item name="${project.artifactId}" href="/index.html"/>
         </breadcrumbs>
         <links>
-            <item name="Español" href="https://business.coderic.org/org.coderic.ws.dian/es/"/>
             <item name="Repository" href="https://github.com/CodericBusiness/org.coderic.ws.dian"/>
-            <item name="Dian" href="https://www.dian.gov.co/"/>
+            <item name="Dian" href="https://www.dian.gov.co"/>
         </links>
         <menu name="Related links">
-            <item name="Semantic Versioning" href="https://semver.org/lang/en/"/>
-            <item name="Maven" href="https://maven.apache.org/"/>
-            <item name="Java" href="https://www.javainuse.com/"/>
+            <item name="Semantic Versioning" href="https://semver.org"/>
+            <item name="Maven" href="https://maven.apache.org"/>
+            <item name="Java" href="https://www.javainuse.com"/>
         </menu>
         <menu ref="reports"/>
     </body>
